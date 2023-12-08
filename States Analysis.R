@@ -1,4 +1,4 @@
-raw_data<-read.csv("C:\\Users\\emily\\OneDrive\\Documents\\School\\6th Semester\\ATMS 120\\StatesData.csv")
+raw_data<-read.csv("StatesData.csv")
 head(raw_data)
 data(state)
 stateData<-data.frame(state.x77,row.names = state.abb)
