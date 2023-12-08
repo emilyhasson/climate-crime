@@ -72,9 +72,11 @@ Arizona has teh highest number of clear days.
 The interaction term tells us how the number of clear days changes the effect the temperature will have on crime rates.
 
 When there are many clear days, higher temperature is correlated with more crime.
+
 <img src="https://github.com/emilyhasson/climate-crime/assets/55060753/0c0e4703-016a-442c-868f-5c887589f166" width="300">
 
 When there are few clear days, higher temperature is correlated with less crime.
+
 <img src="https://github.com/emilyhasson/climate-crime/assets/55060753/bb1c0cb2-733a-45bc-8f5d-40d81cd96e5b" width="300">
 
 ## Conclusion
